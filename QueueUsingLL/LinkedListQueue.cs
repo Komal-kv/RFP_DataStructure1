@@ -39,5 +39,23 @@ namespace QueueUsingLL
             }
             Console.WriteLine("{0} is in the top of the Queue ", this.head.data);
         }
+        internal void Dequeue()
+        {
+            if (this.head == null)
+            {
+                Console.WriteLine("Queue is empty, Deletion is not possible");
+                return;
+            }
+            Console.WriteLine("Value  is dequeue {0} ", this.head.data);
+            this.head = this.head.next;
+        }
+        internal void IsEmpty()
+        {
+            while (this.head != null)
+            {
+                Peek();
+                Dequeue();
+            }
+        }
     }
 }

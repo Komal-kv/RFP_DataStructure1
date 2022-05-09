@@ -2,7 +2,7 @@
 
 using RFP_DataStructure1;
 
-Console.WriteLine("Program for Stack and Queue");
+Console.WriteLine("Program for Stack");
 
 LinkedListStack linkedListStack = new LinkedListStack();
 linkedListStack.Push(70);

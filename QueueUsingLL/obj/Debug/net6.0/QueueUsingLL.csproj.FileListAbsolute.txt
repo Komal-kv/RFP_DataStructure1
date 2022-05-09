@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\bin\Debug\net6.0\QueueUsingLL.exe
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\bin\Debug\net6.0\QueueUsingLL.deps.json
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\bin\Debug\net6.0\QueueUsingLL.runtimeconfig.json
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\bin\Debug\net6.0\QueueUsingLL.dll
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\bin\Debug\net6.0\QueueUsingLL.pdb
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.dll
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\refint\QueueUsingLL.dll
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.pdb
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\QueueUsingLL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RFP_DataStructure1\QueueUsingLL\obj\Debug\net6.0\ref\QueueUsingLL.dll

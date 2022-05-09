@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFP_DataStructure1", "RFP_DataStructure1\RFP_DataStructure1.csproj", "{91DD5E7B-D705-42C1-9858-ECF2C3FE9825}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingLL", "QueueUsingLL\QueueUsingLL.csproj", "{786918E8-AD16-44A0-BA25-1C187F6A1CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91DD5E7B-D705-42C1-9858-ECF2C3FE9825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91DD5E7B-D705-42C1-9858-ECF2C3FE9825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91DD5E7B-D705-42C1-9858-ECF2C3FE9825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786918E8-AD16-44A0-BA25-1C187F6A1CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786918E8-AD16-44A0-BA25-1C187F6A1CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786918E8-AD16-44A0-BA25-1C187F6A1CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786918E8-AD16-44A0-BA25-1C187F6A1CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
